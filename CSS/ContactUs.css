@@ -1,0 +1,120 @@
+
+html
+{	
+	background-color: #2F363E;
+	min-width: 900px;
+	min-height: 600px;
+}
+
+#container
+{
+	width: 100%;
+	height: 100%;
+}
+
+#head
+{
+	
+	background-color: #BEE6F4;
+	background-size 100% 20%;
+	color: #1C75BC;
+	text-align: center;
+	font-family: arial;
+	font-size: 24px;
+	padding:20px;
+	margin: 0px;
+}
+
+#list
+{
+	width: 30%;
+}
+
+#form
+{
+	width: 70%;
+}
+
+#contentlist
+{
+	width: 100%;
+	float: left;
+	margin-left: 5%;
+	min-width: 200px;
+}
+
+h3
+{
+	color: #BEE6F4;
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+#contentlist p
+{
+	color: white;
+	font-family: arial;
+	margin: 0px;
+	text-align: left;
+	margin-right: 5px;
+}
+
+#subscribe
+{
+	width: 100%;
+	margin-top: 60px;
+}
+
+.label
+{
+	color: white;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+input
+{
+	width: 350px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+ul
+{
+	list-style-type: none;
+}
+
+table
+{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 960px;
+}
+
+#btnSubmit
+{
+	margin-top: 30px;
+	font-family: arial;
+	font-weight: bold;
+	text-align: center;
+	width: 170px;
+	background-color: #1C75BC;
+	border-color: #1C75BC;
+	border-style: solid;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	padding: 10px;
+	color: white;
+	
+}
+
+#btnSubmit:hover {opacity: 0.6; }
+
+#footer
+{
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+}
+

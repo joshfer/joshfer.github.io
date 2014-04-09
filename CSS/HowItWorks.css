@@ -1,0 +1,68 @@
+
+html
+{
+	height: 100%;
+	min-width: 1000px;
+	width: 100%;
+}
+
+h1
+{
+	font-size: 42px;
+	text-align: center;
+	height: 20%;
+	font-weight: normal;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.circle
+{
+	background: #ADB3B9;
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+table
+{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 1000px;
+}
+
+#items
+{
+	width: 100%;
+	margin: 0px;
+	border-collapse: collapse;
+}
+
+td
+{
+	text-align: center;
+	margin: 0px;
+}
+
+.headings
+{
+	color: #1C75BC;
+	font-size: 20px;
+}
+
+.desc
+{
+	color: #667388;
+	font-family: arial;
+	margin: 20px;
+	margin-bottom: 15%:
+}
+
+.tblLogo
+{
+	border: 1px solid #BEE6F4;
+}

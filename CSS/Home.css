@@ -1,0 +1,106 @@
+
+#logo
+{
+	width: 170px;
+	min-height: 80px;
+	height: 15%;
+	margin-bottom: 15%;
+	margin-left: 50px;
+}
+
+P
+{
+	text-align: center;
+	font-family: arial;
+	color: white;
+}
+
+table
+{
+	width: 960px;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#intro
+{
+	font-size: 25px;
+	width: 60%;
+	height: 30%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+html
+{
+	height: 100%;
+	background-color: #1C75BC;
+	background-image: url("../Images/image.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 70%;
+	min-width: 1000px;
+	min-height: 800px;
+}
+
+#RowBtns
+{
+	height: 30%;
+}
+
+#btnWorks
+{
+	width: 140px;
+	height: 25px;
+	background-color: #1C75BC;
+	border-radius: 15px;
+	-webkit-border-radius: 15px;
+	padding: 5px;
+	padding-top: 10px;
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+A:link {text-decoration:none;}
+a
+{ 
+	color: inherit; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#btnWorks:hover {opacity: 0.6; }
+#btnContact:hover {opacity: 0.6; }
+
+#btnContact
+{
+	width: 140px;
+	height: 25px;
+	background-color: white;
+	border-radius: 15px;
+	-webkit-border-radius: 15px;
+	padding: 5px;
+	padding-top: 10px;
+	text-align: center;
+	color: black;
+	margin-left:10px;
+	font-weight: bold;
+}
+
+#quote
+{
+	margin-top: 17%;
+	width: 80%;
+}
+
+#writer
+{
+	font-size: 25px;
+	font-family: times new roman;
+	font-weight: bold;
+}
+
+#foot
+{
+	height: 35%;
+}
